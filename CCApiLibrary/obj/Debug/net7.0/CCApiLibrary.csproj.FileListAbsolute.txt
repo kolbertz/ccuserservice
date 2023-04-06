@@ -1,0 +1,12 @@
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\CCApiLibrary.csproj.AssemblyReference.cache
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\CCApiLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\CCApiLibrary.AssemblyInfoInputs.cache
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\CCApiLibrary.AssemblyInfo.cs
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\CCApiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\bin\Debug\net7.0\CCApiLibrary.deps.json
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\bin\Debug\net7.0\CCApiLibrary.dll
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\bin\Debug\net7.0\CCApiLibrary.pdb
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\CCApiLibrary.dll
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\refint\CCApiLibrary.dll
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\CCApiLibrary.pdb
+C:\Users\PatrickMichla\Source\Repos\ccuserservice\CCApiLibrary\obj\Debug\net7.0\ref\CCApiLibrary.dll
